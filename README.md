@@ -1,4 +1,4 @@
-## Dream Coding ⭐️
+<h1 align="center"> Dream Coding ⭐️</h1>
 
 <h2 align="center">Step 1. Shoppingmall Minigame 🛍</h2>
 <p align="center">
