@@ -11,11 +11,11 @@
   --base-space: 8px;
   --size-button: 60px;
   --size-border: 4px;
-  --size-thumbnail: 50px;
+  --size-thumbnail: 55px;
   --font-size: 18px;
 
   /* annimation */
-  --animation-duration: 300ms;
+  --annimation-duration: 300ms;
 }
 
 body {
@@ -27,9 +27,10 @@ body {
   align-items: center;
 }
 
+/* 로고에 마우스 올리면 커서가 포인터로 변함*/
 .logo {
   cursor: pointer;
-  transition: transform var(--animation-duration) ease;
+  transition: var(--annimation-duration);
 }
 
 .btn {
@@ -37,10 +38,11 @@ body {
   border: none;
   outline: none;
   cursor: pointer;
-  transition: transform var(--animation-duration) ease;
+  transition: var(--annimation-duration);
   margin-right: var(--base-space);
 }
 
+/* 로고에 마우스를 올리면 아이콘이 살짝 커짐 */
 .btn:hover,
 .logo:hover {
   transform: scale(1.1);
@@ -88,11 +90,6 @@ body {
   align-items: center;
   padding: var(--base-space);
   margin-bottom: var(--base-space);
-}
-
-.item.invisible {
-  background-color: var(--color-white);
-  display: none;
 }
 
 .item__thumbnail {
