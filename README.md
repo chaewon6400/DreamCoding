@@ -1,6 +1,6 @@
-<h1 align="center"> Dream Coding ⭐️</h1>
+## Dream Coding ⭐️
 
-<h2 align="center">Step 1. Shoppingmall Minigame 🛍</h2>
+<h2>Step 1. Shoppingmall Minigame 🛍</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp 
