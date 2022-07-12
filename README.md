@@ -10,5 +10,5 @@
 
 ### React 
 <p>
-   <img src="https://img.shields.io/badge/react-6acae0?style=for-the-badge&logo=react&logoColor=white"/></a>&nbsp 
-  </p>
+   <img src="https://img.shields.io/badge/react-8ed8e3?style=for-the-badge&logo=react&logoColor=white"/></a>&nbsp 
+</p>
