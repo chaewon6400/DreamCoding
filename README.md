@@ -12,3 +12,4 @@
 <p>
     <img src="https://img.shields.io/badge/react-8ed8e3?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
+<h3> Project1. Habit Tracker 🌱 </h3>
